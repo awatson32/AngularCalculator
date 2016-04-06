@@ -58,9 +58,12 @@ body {
     left: 50%;
     transform: translate(-50%);
     font-size: 21px;
-    width: 100px;
+    width: 200px;
 }
 
+.form-control {
+    text-align: center;
+}
 
 /* Supporting marketing content */
 .marketing {
